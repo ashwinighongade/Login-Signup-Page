@@ -1,0 +1,84 @@
+[
+    {
+        "Name": "Ashwini",
+        "Password": "asHwini#34",
+        "Age": 19,
+        "Mobile Number": "9889768756",
+        "Hobbies": "travelling",
+        "Description": "yuiot"
+    },
+    {
+        "Name": "rupali",
+        "Password": "Rupali@1234",
+        "Age": 21,
+        "Mobile Number": "3456789740",
+        "Hobbies": "sport",
+        "Description": "wertyt"
+    },
+    {
+        "Name": "reshma",
+        "Password": "Rsdf@123",
+        "Age": 25,
+        "Mobile Number": "5643987654",
+        "Hobbies": "reading",
+        "Description": "oiuypt"
+    },
+    {
+        "Name": "karuna",
+        "Password": "Kavi@123",
+        "Age": 20,
+        "Mobile Number": "3456789089",
+        "Hobbies": "kho kho",
+        "Description": "i am a student"
+    },
+    {
+        "Name": "Kranti",
+        "Password": "Kranti#123",
+        "Details": {
+            "Age": 20,
+            "Mobile Number": "9876548976",
+            "Hobbies": "reading",
+            "Description": "i am dancer"
+        }
+    },
+    {
+        "Name": "priya",
+        "Password": "Kari#123",
+        "Details": {
+            "Age": 19,
+            "Mobile Number": "4356789854",
+            "Hobbies": "hksd",
+            "Description": "qwertyuio"
+        }
+    },
+    {
+        "Name": "karina",
+        "Password": "kArina#1234",
+        "Details": {
+            "Age": 18,
+            "Mobile Number": "6785439876",
+            "Hobbies": "reading",
+            "Description": "sdftyuioqwer jk"
+        }
+    },
+    {
+        "Name": "Monika jaiswal",
+        "Password": "Monika@123",
+        "Details": {
+            "Age": 21,
+            "Mobile Number": "8806754323",
+            "Hobbies": "hjukasdf ",
+            "Description": "asdfgwertyui"
+        }
+    },
+    {
+        "Name": "Husna Shaikh",
+        "Password": "Husna@12345",
+        "Details": {
+            "Age": 21,
+            "Mobile Number": "8876590324",
+            "Hobbies": " reading, dancing",
+            "Description": "asdfgwertyucvcv"
+        }
+    }
+]
