@@ -54,7 +54,7 @@ def login(fname):
             print(i)
         elif i["Name"]==name and i["Password"]!=password1:
             print("check password")
-        elif i["Name"]==name and i["Password"]==password1:
+        elif i["Name"]!=name and i["Password"]==password1:
             print("check username")
 fname="longin_singup.json"
 file_present(fname)
